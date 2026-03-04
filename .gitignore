@@ -1,0 +1,1 @@
+# Byte-compiled / optimized / DLL files\n__pycache__/\n*.py[cod]\n*$py.class\n\n# C extensions\n*.so\n\n# Distribution / packaging\n.Python\n/build/\n/target/\n*.egg-info/\ndist/\n*.egg\n\n# Installer logs\npip-log.txt\npip-delete-this-directory.txt\n\n# IDE files\n.vscode/\nbin/\n.idea/\n*.sublime-*\n\n# OS specific files\n.DS_Store\nThumbs.db\n*.swp\n
